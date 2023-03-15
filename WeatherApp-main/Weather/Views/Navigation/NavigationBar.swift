@@ -1,9 +1,4 @@
-//
-//  NavigationBar.swift
-//  Weather
-//
-//  Created by Dara To on 2022-06-23.
-//
+
 
 import SwiftUI
 
