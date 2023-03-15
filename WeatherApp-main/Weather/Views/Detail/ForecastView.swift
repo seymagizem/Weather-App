@@ -1,9 +1,4 @@
-//
-//  ForecastView.swift
-//  Weather
-//
-//  Created by Dara To on 2022-06-17.
-//
+
 
 import SwiftUI
 
