@@ -1,9 +1,3 @@
-//
-//  WeatherWidget.swift
-//  Weather
-//
-//  Created by Dara To on 2022-06-24.
-//
 
 import SwiftUI
 
